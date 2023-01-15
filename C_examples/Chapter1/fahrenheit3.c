@@ -1,4 +1,4 @@
-/* Print Fahrenheit-Celsius table; use of constants
+/* Print Fahrenheit-Celsius table; use of constants */
 
 #include <stdio.h>
 
