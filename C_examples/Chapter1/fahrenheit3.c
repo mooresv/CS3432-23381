@@ -1,3 +1,5 @@
+/* Print Fahrenheit-Celsius table; use of constants
+
 #include <stdio.h>
 
 #define LOWER 0   /* lower limit of table */
@@ -5,7 +7,7 @@
 #define STEP  20  /* step size */
 
 /* print Fahrenheit-Celsius table */
-int main()
+int main(void)
 {
     int fahr;
   
