@@ -51,4 +51,3 @@ void copy(char to[], char from[])
   while ((to[i] = from[i]) != '\0')
     ++i;
 }
-Footer

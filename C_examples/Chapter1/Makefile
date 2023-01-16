@@ -3,4 +3,4 @@ PROGS = hello fahrenheit1 fahrenheit2 fahrenheit3 copy1 copy2 count1 count2 coun
 all: $(PROGS)
 
 $(PROGS): %: %.c
-        $(CC) $(CFLAGS) -o $@ $<
+	$(CC) $(CFLAGS) -o $@ $<

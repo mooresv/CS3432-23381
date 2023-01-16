@@ -1,4 +1,4 @@
-Rewrite of the longes-line program with *line*, 
+/* Rewrite of the longes-line program with *line*, 
  *longest* and *max* as external variables. */
 #include <stdio.h>
 
